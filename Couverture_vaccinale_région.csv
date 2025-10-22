@@ -1,0 +1,239 @@
+﻿Année;Région Code;Région;Grippe moins de 65 ans à risque;Grippe 65 ans et plus
+2011;84;Auvergne et Rhône-Alpes;;
+2011;1;Guadeloupe;;
+2011;2;Martinique;;
+2012;53;Bretagne;;
+2012;94;Corse;;
+2012;44;Grand Est;;
+2012;11;Île-de-France;;
+2012;52;Pays de la Loire;;
+2012;1;Guadeloupe;;
+2013;53;Bretagne;;
+2013;28;Normandie;;
+2013;52;Pays de la Loire;;
+2013;1;Guadeloupe;;
+2013;3;Guyane;;
+2013;2;Martinique;;
+2014;84;Auvergne et Rhône-Alpes;;
+2014;53;Bretagne;;
+2014;94;Corse;;
+2014;76;Occitanie;;
+2014;52;Pays de la Loire;;
+2015;84;Auvergne et Rhône-Alpes;;
+2015;27;Bourgogne et Franche-Comté;;
+2015;53;Bretagne;;
+2015;94;Corse;;
+2015;44;Grand Est;;
+2015;76;Occitanie;;
+2015;1;Guadeloupe;;
+2015;3;Guyane;;
+2016;53;Bretagne;31.3;52.4
+2016;24;Centre-Val de Loire;30.6;52.4
+2016;44;Grand Est;31.7;52.2
+2016;32;Hauts-de-France;34.8;53.4
+2016;28;Normandie;33.4;53.8
+2016;4;Réunion;;
+2017;84;Auvergne et Rhône-Alpes;29.5;48.5
+2017;24;Centre-Val de Loire;30.4;51.7
+2017;11;Île-de-France;23.9;47.3
+2017;75;Nouvelle Aquitaine;29.7;50.8
+2017;93;Provence-Alpes-Côte d'Azur;25.4;47.5
+2018;84;Auvergne et Rhône-Alpes;29.2;50.3
+2018;32;Hauts-de-France;33.3;54.0
+2018;11;Île-de-France;24.9;48.9
+2018;28;Normandie;32.0;54.1
+2018;76;Occitanie;28.0;50.3
+2018;1;Guadeloupe;12.4;20.5
+2018;3;Guyane;12.7;18.9
+2019;75;Nouvelle Aquitaine;32.4;53.2
+2019;76;Occitanie;29.9;51.5
+2019;1;Guadeloupe;14.8;22.9
+2020;84;Auvergne et Rhône-Alpes;40.1;59.4
+2020;27;Bourgogne et Franche-Comté;41.2;60.4
+2020;28;Normandie;44.1;63.8
+2020;76;Occitanie;37.7;59.8
+2020;52;Pays de la Loire;39.6;63.3
+2020;93;Provence-Alpes-Côte d'Azur;34.3;56.4
+2020;2;Martinique;12.2;18.8
+2021;84;Auvergne et Rhône-Alpes;35.2;55.9
+2021;27;Bourgogne et Franche-Comté;36.9;57.2
+2021;24;Centre-Val de Loire;37.8;60.3
+2021;44;Grand Est;37.1;57.0
+2021;11;Île-de-France;29.7;55.0
+2021;75;Nouvelle Aquitaine;36.1;58.7
+2021;93;Provence-Alpes-Côte d'Azur;29.2;52.4
+2022;53;Bretagne;32.8;61.6
+2022;24;Centre-Val de Loire;34.9;59.5
+2022;94;Corse;26.8;48.7
+2022;32;Hauts-de-France;36.7;59.0
+2022;76;Occitanie;30.0;55.7
+2022;3;Guyane;11.1;17.9
+2023;32;Hauts-de-France;29.9;56.9
+2023;11;Île-de-France;22.4;52.7
+2023;75;Nouvelle Aquitaine;26.4;56.1
+2023;93;Provence-Alpes-Côte d'Azur;21.3;49.7
+2023;4;Réunion;;
+2024;53;Bretagne;28.0;59.5
+2024;11;Île-de-France;22.9;52.9
+2024;28;Normandie;29.5;57.7
+2024;76;Occitanie;24.1;52.9
+2024;52;Pays de la Loire;27.4;58.1
+2011;27;Bourgogne et Franche-Comté;;
+2011;53;Bretagne;;
+2011;94;Corse;;
+2011;75;Nouvelle Aquitaine;;
+2011;76;Occitanie;;
+2011;93;Provence-Alpes-Côte d'Azur;;
+2012;27;Bourgogne et Franche-Comté;;
+2012;32;Hauts-de-France;;
+2012;28;Normandie;;
+2012;76;Occitanie;;
+2012;3;Guyane;;
+2012;4;Réunion;;
+2013;27;Bourgogne et Franche-Comté;;
+2013;11;Île-de-France;;
+2013;75;Nouvelle Aquitaine;;
+2013;76;Occitanie;;
+2013;4;Réunion;;
+2014;27;Bourgogne et Franche-Comté;;
+2014;24;Centre-Val de Loire;;
+2014;32;Hauts-de-France;;
+2014;11;Île-de-France;;
+2014;28;Normandie;;
+2014;75;Nouvelle Aquitaine;;
+2014;93;Provence-Alpes-Côte d'Azur;;
+2014;1;Guadeloupe;;
+2014;3;Guyane;;
+2014;4;Réunion;;
+2015;11;Île-de-France;;
+2015;75;Nouvelle Aquitaine;;
+2015;93;Provence-Alpes-Côte d'Azur;;
+2015;2;Martinique;;
+2015;4;Réunion;;
+2016;84;Auvergne et Rhône-Alpes;28.8;48.3
+2016;11;Île-de-France;23.9;47.8
+2016;75;Nouvelle Aquitaine;29.1;51.3
+2016;76;Occitanie;26.6;49.6
+2016;93;Provence-Alpes-Côte d'Azur;25.4;47.9
+2016;1;Guadeloupe;9.3;16.2
+2016;3;Guyane;;
+2016;2;Martinique;;
+2017;27;Bourgogne et Franche-Comté;31.3;50.2
+2017;53;Bretagne;31.8;52.4
+2017;1;Guadeloupe;8.8;15.3
+2017;3;Guyane;;
+2018;27;Bourgogne et Franche-Comté;31.9;51.5
+2018;24;Centre-Val de Loire;31.2;53.0
+2018;94;Corse;23.5;46.3
+2018;52;Pays de la Loire;31.0;53.2
+2018;93;Provence-Alpes-Côte d'Azur;26.6;49.1
+2018;2;Martinique;8.6;14.2
+2019;84;Auvergne et Rhône-Alpes;30.2;51.2
+2019;53;Bretagne;33.3;56.0
+2019;24;Centre-Val de Loire;33.2;54.4
+2019;11;Île-de-France;27.5;50.3
+2019;28;Normandie;35.7;55.0
+2019;52;Pays de la Loire;32.6;54.1
+2019;2;Martinique;11.0;17.0
+2020;94;Corse;34.6;55.0
+2020;32;Hauts-de-France;43.4;61.6
+2020;75;Nouvelle Aquitaine;40.4;61.8
+2020;3;Guyane;14.0;21.9
+2021;32;Hauts-de-France;40.0;59.8
+2021;28;Normandie;39.6;61.3
+2021;76;Occitanie;33.0;56.2
+2021;52;Pays de la Loire;35.2;60.5
+2021;3;Guyane;10.7;18.5
+2021;4;Réunion;;
+2022;27;Bourgogne et Franche-Comté;33.3;56.1
+2022;11;Île-de-France;27.6;54.9
+2022;28;Normandie;36.8;60.5
+2022;75;Nouvelle Aquitaine;33.0;58.1
+2022;52;Pays de la Loire;32.7;59.5
+2022;2;Martinique;7.7;13.9
+2023;84;Auvergne et Rhône-Alpes;25.8;53.3
+2023;53;Bretagne;27.8;59.5
+2023;44;Grand Est;26.5;53.5
+2023;76;Occitanie;24.0;53.0
+2023;52;Pays de la Loire;27.5;58.2
+2023;1;Guadeloupe;6.9;14.9
+2023;2;Martinique;7.5;14.9
+2024;27;Bourgogne et Franche-Comté;25.5;52.3
+2024;24;Centre-Val de Loire;27.6;56.2
+2024;75;Nouvelle Aquitaine;26.4;55.6
+2024;93;Provence-Alpes-Côte d'Azur;21.3;49.8
+2024;1;Guadeloupe;7.2;15.1
+2024;4;Réunion;;
+2011;24;Centre-Val de Loire;;
+2011;44;Grand Est;;
+2011;32;Hauts-de-France;;
+2011;11;Île-de-France;;
+2011;28;Normandie;;
+2011;52;Pays de la Loire;;
+2011;3;Guyane;;
+2011;4;Réunion;;
+2012;84;Auvergne et Rhône-Alpes;;
+2012;24;Centre-Val de Loire;;
+2012;75;Nouvelle Aquitaine;;
+2012;93;Provence-Alpes-Côte d'Azur;;
+2012;2;Martinique;;
+2013;84;Auvergne et Rhône-Alpes;;
+2013;24;Centre-Val de Loire;;
+2013;94;Corse;;
+2013;44;Grand Est;;
+2013;32;Hauts-de-France;;
+2013;93;Provence-Alpes-Côte d'Azur;;
+2014;44;Grand Est;;
+2014;2;Martinique;;
+2015;24;Centre-Val de Loire;;
+2015;32;Hauts-de-France;;
+2015;28;Normandie;;
+2015;52;Pays de la Loire;;
+2016;27;Bourgogne et Franche-Comté;30.9;50.4
+2016;94;Corse;16.4;33.6
+2016;52;Pays de la Loire;31.0;51.2
+2017;94;Corse;15.9;33.6
+2017;44;Grand Est;32.0;51.9
+2017;32;Hauts-de-France;34.1;52.2
+2017;28;Normandie;33.4;53.1
+2017;76;Occitanie;26.9;49.2
+2017;52;Pays de la Loire;31.7;51.3
+2017;2;Martinique;13.4;20.5
+2017;4;Réunion;;
+2018;53;Bretagne;31.3;54.3
+2018;44;Grand Est;32.4;52.9
+2018;75;Nouvelle Aquitaine;30.6;52.3
+2018;4;Réunion;;
+2019;27;Bourgogne et Franche-Comté;33.4;52.4
+2019;94;Corse;24.2;46.9
+2019;44;Grand Est;33.7;53.5
+2019;32;Hauts-de-France;35.1;53.2
+2019;93;Provence-Alpes-Côte d'Azur;27.7;49.7
+2019;3;Guyane;14.0;21.3
+2019;4;Réunion;;
+2020;53;Bretagne;41.1;65.5
+2020;24;Centre-Val de Loire;41.5;62.8
+2020;44;Grand Est;40.4;60.2
+2020;11;Île-de-France;34.4;57.5
+2020;1;Guadeloupe;17.2;27.5
+2020;4;Réunion;;
+2021;53;Bretagne;35.7;62.1
+2021;94;Corse;28.9;49.5
+2021;1;Guadeloupe;10.6;18.7
+2021;2;Martinique;8.1;13.7
+2022;84;Auvergne et Rhône-Alpes;32.3;55.5
+2022;44;Grand Est;33.7;55.8
+2022;93;Provence-Alpes-Côte d'Azur;27.1;51.9
+2022;1;Guadeloupe;9.7;18.1
+2022;4;Réunion;;
+2023;27;Bourgogne et Franche-Comté;26.3;53.3
+2023;24;Centre-Val de Loire;28.2;57.0
+2023;94;Corse;18.0;46.0
+2023;28;Normandie;30.1;58.5
+2023;3;Guyane;4.8;11.2
+2024;84;Auvergne et Rhône-Alpes;25.8;53.1
+2024;94;Corse;18.5;46.0
+2024;44;Grand Est;26.0;52.9
+2024;32;Hauts-de-France;29.2;56.0
+2024;3;Guyane;7.6;14.8
+2024;2;Martinique;5.0;11.5
